@@ -1,0 +1,161 @@
+{
+"manufacturing": [
+"Production Engineer",
+"Assembly Technician",
+"Quality Inspector",
+"Manufacturing Associate",
+"Machine Operator"
+],
+
+"computer_engineering": [
+"Software Engineer",
+"Web Developer",
+"Backend Developer",
+"Frontend Developer",
+"Cloud Engineer"
+],
+
+"software": [
+"Software Developer",
+"Java Developer",
+"Python Developer",
+"Full Stack Developer",
+"Application Developer"
+],
+
+"cloud": [
+"Cloud Engineer",
+"DevOps Engineer",
+"AWS Engineer",
+"Site Reliability Engineer",
+"Cloud Administrator"
+],
+
+"ai_data": [
+"Data Scientist",
+"Machine Learning Engineer",
+"AI Engineer",
+"Data Analyst",
+"Business Intelligence Analyst"
+],
+
+"cybersecurity": [
+"Cyber Security Analyst",
+"SOC Analyst",
+"Security Engineer",
+"Penetration Tester",
+"Information Security Analyst"
+],
+
+"mechanical": [
+"Mechanical Engineer",
+"Design Engineer",
+"Maintenance Engineer",
+"Production Engineer",
+"Quality Engineer"
+],
+
+"civil": [
+"Civil Engineer",
+"Site Engineer",
+"Structural Engineer",
+"Construction Manager",
+"Project Engineer"
+],
+
+"electrical": [
+"Electrical Engineer",
+"Power Systems Engineer",
+"PLC Engineer",
+"Maintenance Engineer",
+"Control Systems Engineer"
+],
+
+"electronics": [
+"Embedded Engineer",
+"VLSI Engineer",
+"PCB Design Engineer",
+"Electronics Engineer",
+"IoT Engineer"
+],
+
+"business": [
+"Business Analyst",
+"Operations Executive",
+"Project Coordinator",
+"Management Trainee",
+"Business Development Executive"
+],
+
+"marketing": [
+"Digital Marketing Executive",
+"SEO Specialist",
+"Content Marketer",
+"Social Media Manager",
+"Marketing Analyst"
+],
+
+"sales": [
+"Sales Executive",
+"Business Development Executive",
+"Account Manager",
+"Sales Manager",
+"Relationship Manager"
+],
+
+"finance": [
+"Accountant",
+"Financial Analyst",
+"Tax Consultant",
+"Auditor",
+"Finance Executive"
+],
+
+"hr": [
+"HR Executive",
+"Recruiter",
+"Talent Acquisition Specialist",
+"HR Generalist",
+"Payroll Executive"
+],
+
+"operations": [
+"Operations Executive",
+"Supply Chain Analyst",
+"Logistics Coordinator",
+"Procurement Executive",
+"Inventory Manager"
+],
+
+"customer_service": [
+"Customer Support Executive",
+"Client Relationship Executive",
+"Call Center Associate",
+"Customer Success Associate",
+"Service Coordinator"
+],
+
+"administration": [
+"Office Administrator",
+"Administrative Assistant",
+"Data Entry Operator",
+"Office Coordinator",
+"Executive Assistant"
+],
+
+"healthcare": [
+"Medical Coder",
+"Clinical Research Associate",
+"Hospital Administrator",
+"Healthcare Executive",
+"Patient Care Coordinator"
+],
+
+"education": [
+"Teacher",
+"Trainer",
+"Academic Coordinator",
+"Education Counselor",
+"Curriculum Developer"
+]
+}

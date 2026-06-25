@@ -1,0 +1,54 @@
+{
+"manufacturing": [
+  "assembly",
+  "assembly trainee",
+  "production",
+  "manufacturing",
+  "machine operations",
+  "machinery operations",
+  "forklift",
+  "scissor lift",
+  "quality checks",
+  "quality control",
+  "material loading",
+  "material unloading",
+  "production schedules",
+  "equipment maintenance",
+  "packaging",
+  "production process"
+],
+
+"computer_engineering": [
+  "computer engineering",
+  "programming",
+  "software development",
+  "database",
+  "networking",
+  "operating systems"
+],
+
+"business": [
+  "business development",
+  "management",
+  "strategy",
+  "planning",
+  "operations management",
+  "market research"
+],
+
+"customer_service": [
+  "customer support",
+  "customer service",
+  "client handling",
+  "problem solving",
+  "communication skills"
+],
+
+"administration": [
+  "administration",
+  "documentation",
+  "record keeping",
+  "office management",
+  "report preparation"
+]
+}
