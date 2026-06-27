@@ -18,8 +18,7 @@ async function uploadResume() {
     try {
 
         const response = await fetch(
-            "http://localhost:5000/upload",
-            {
+		"http://35.154.54.250:5000/upload"),            {
                 method: "POST",
                 body: formData
             }
